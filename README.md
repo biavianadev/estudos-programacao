@@ -6,7 +6,7 @@
 
 Este repositório é dedicado à organização de anotações, exercícios e projetos desenvolvidos ao longo dos meus estudos em programação.
 
-O objetivo é construir uma base sólida em programação, principalmente com Python, e explorar suas aplicações em Matemática, Ciência de Dados e Inteligência Artificial.
+O objetivo é construir uma base sólida em programação, principalmente com Python, e explorar suas aplicações em Matemática, Ciência de Dados e futuramente Inteligência Artificial.
 
 ---
 
@@ -31,19 +31,21 @@ conteudo/
 
 ## Conteúdos e Progresso
 
-<div align="center">
+### Python Básico
 
-|             Área            |                 Conteúdo                 |    |
-|-----------------------------|------------------------------------------|----|
-|         **Python**          |       01. Fundamentos da Linguagem       | 🟡 |
-|    **Ciência de Dados**     |     01. Introdução à Ciência de Dados    | 🔴 |
-| **Inteligência Artificial** | 01. Introdução à Inteligência Artificial | 🔴 |
+🟡 01 - Fundamentos da Linguagem
 
-</div>
+🔴 02 - Tipos de Dados
+
+🔴 03 - Estrutura de Dados
+
+🔴 04 - Funções e Métodos
+
+🔴 05 - Configuração de Ambiente
 
 <br>
 
-> **Legenda:** 🔴 A começar · 🟡 Em andamento · 🟢 Finalizado
+> **Legenda:** 🔴 A começar 🟡 Em Andamento 🟢 Finalizado
 
 ---
 
@@ -59,12 +61,9 @@ conteudo/
 
 ### Cursos
 
-- [Dados com Python e IA](https://app.santanderopenacademy.com/pt-BR/program/dados-com-python-e-ia) — Santander e DIO
-- [Introdução à Ciência de Dados](https://cursosgratuitos.fgv.br/curso/introducao-a-ciencia-de-dados) — FGV
-
 ### Livros e Materiais
 
-- [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) — IFRN
+- [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - IFRN
 
 ---
 
