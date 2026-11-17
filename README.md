@@ -31,83 +31,101 @@ conteudo/
 
 ## Conteúdos e Progresso
 
-<br>
-
-> **Legenda:** 🔴 A começar 🟡 Em Andamento 🟢 Finalizado
-
-<br>
-
-### Python Básico
-
-🟡 01 - Fundamentos da Linguagem
-
-🟡 02 - Tipos de Dados
-
-🔴 03 - Estrutura de Dados
-
-🔴 04 - Funções e Métodos
-
-🔴 05 - Configuração de Ambiente
-
----
-
 ### Fundamentos de Ciência de Dados
 
-🟡 01 - O que é Ciência de Dados?
-
-🔴 02 - Problemas e Soluções em Ciência de Dados 
-
-🔴 03 - Etapas da Ciência de Dados
-
-🔴 04 - Métodos Matemáticos e Computacionais
-
-🔴 05 - Ética em Ciência de Dados
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01 - O que é Ciência de Dados?
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02 - Problemas e Soluções em Ciência de Dados 
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03 - Etapas da Ciência de Dados
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04 - Métodos Matemáticos e Computacionais
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05 - Ética em Ciência de Dados
 
 ---
 
 ### Fundamentos de Inteligência Artificial
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01 - Origem e Evolução da IA
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02 - Treinamento de IA e LLMs
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03 - Deep Learning
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04 - Inteligência Artificial Generativa
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05 - Chatbots, Copilotos e Agentes
 
-🟡 01 - Origem e Evolução da IA
+<br>
 
-🔴 02 - Treinamento de IA e LLMs
-
-🔴 03 - Deep Learning
-
-🔴 04 - Inteligência Artificial Generativa
-
-🔴 05 - Chatbots, Copilotos e Agentes
+**Um Pouco de Engenharia de Prompts**
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01 - Introdução à Engenharia de Prompts
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02 - Como os Modelos Interpretam Prompts
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03 - Contexto e Memória nos Modelos de IA
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04 - Técnicas de Construção de Prompts
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05 - Boas Práticas e Otimização de Prompts
 
 ---
 
-### Engenharia de Prompts
+### Linguagens de Programação
 
-🔴 01 - Introdução à Engenharia de Prompts
+**Python Básico**
 
-🔴 02 - Como os Modelos Interpretam Prompts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01 - Fundamentos da Linguagem
 
-🔴 03 - Contexto e Memória nos Modelos de IA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02 - Tipos de Dados
 
-🔴 04 - Técnicas de Construção de Prompts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03 - Estrutura de Dados
 
-🔴 05 - Boas Práticas e Otimização de Prompts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04 - Funções e Métodos
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05 - Configuração de Ambiente
 
 ---
 
 ## Fontes e Referências
 
-### Cursos
+### Cursos e Sites
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dados com Python e IA](https://app.santanderopenacademy.com/pt-BR/program/dados-com-python-e-ia) - Santander & DIO 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Ciência de Dados?](https://www.ibm.com/br-pt/think/topics/data-science) - IBM 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [A Brief History of Data Science](https://www.dataversity.net/articles/brief-history-data-science/) - DATAVERSITY 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [A Very Short History of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) - Forbes 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Data Science?](https://www.alura.com.br/artigos/o-que-e-data-science) - Alura 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Big Data?](https://www.ibm.com/br-pt/think/topics/big-data) - IBM 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Big Data](https://ascenty.com/blog/artigos/big-data/) - Ascenty 
 
 ### Livros e Materiais
 
-- [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - IFRN
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - IFRN 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Fundamentos de Ciência de Dados](https://repositorio.ufsm.br/bitstream/handle/1/33007/Fundamentos_Ciencia_de_dados.pdf?sequence=4&isAllowed=y) - UAB/CTE/UFSM
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Fundamentos Essenciais para Ciência de Dados](https://repositorio.ifes.edu.br/server/api/core/bitstreams/abefc5d0-2013-48c9-a177-e650a5f1986d/content) - IFES
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Ciência de Dados: Conceitos,Métodos e Aplicações](https://ia-labs.com.br/wp-content/uploads/2025/05/Ciencia-de-Dados-Conceitos-Metodos-e-Aplicacoes.pdf) - AI labs
 
 ---
 
 ## Tecnologias e Ferramentas
 
-- **Linguagem Principal:** `Python 3.x`
-- **Anotações e fórmulas:** `Markdown` / `LaTeX`
-- **Ambientes:** `Google Colab` / `Jupyter Notebook` / `VS Code`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Linguagem Principal:** `Python 3.x`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Anotações e fórmulas:** `Markdown` / `LaTeX`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Ambientes:** `Google Colab` / `Jupyter Notebook` / `VS Code`
 
 ---
 
