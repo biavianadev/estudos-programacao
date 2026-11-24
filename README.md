@@ -93,29 +93,29 @@ conteudo/
 
 ### Cursos e Sites
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Dados com Python e IA](https://app.santanderopenacademy.com/pt-BR/program/dados-com-python-e-ia) - Santander & DIO 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Dados com Python e IA - Santander & DIO ( [link](https://app.santanderopenacademy.com/pt-BR/program/dados-com-python-e-ia) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Ciência de Dados?](https://www.ibm.com/br-pt/think/topics/data-science) - IBM 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- O que é Ciência de Dados? - IBM ( [link](https://www.ibm.com/br-pt/think/topics/data-science) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [A Brief History of Data Science](https://www.dataversity.net/articles/brief-history-data-science/) - DATAVERSITY 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A Brief History of Data Science - DATAVERSITY ( [link](https://www.dataversity.net/articles/brief-history-data-science/) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [A Very Short History of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) - Forbes 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A Very Short History of Data Science - Forbes ( [link](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Data Science?](https://www.alura.com.br/artigos/o-que-e-data-science) - Alura 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- O que é Data Science? - Alura ( [link](https://www.alura.com.br/artigos/o-que-e-data-science) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [O que é Big Data?](https://www.ibm.com/br-pt/think/topics/big-data) - IBM 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- O que é Big Data? - IBM ( [link](https://www.ibm.com/br-pt/think/topics/big-data) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Big Data](https://ascenty.com/blog/artigos/big-data/) - Ascenty 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Big Data - Ascenty ( [link](https://ascenty.com/blog/artigos/big-data/) )
 
 ### Livros e Materiais
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - IFRN 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Introdução a Python com Aplicações de Sistemas Operacionais - IFRN ( [link](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Fundamentos de Ciência de Dados](https://repositorio.ufsm.br/bitstream/handle/1/33007/Fundamentos_Ciencia_de_dados.pdf?sequence=4&isAllowed=y) - UAB/CTE/UFSM
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fundamentos de Ciência de Dados - UAB/CTE/UFSM ( [link](https://repositorio.ufsm.br/bitstream/handle/1/33007/Fundamentos_Ciencia_de_dados.pdf?sequence=4&isAllowed=y) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Fundamentos Essenciais para Ciência de Dados](https://repositorio.ifes.edu.br/server/api/core/bitstreams/abefc5d0-2013-48c9-a177-e650a5f1986d/content) - IFES
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fundamentos Essenciais para Ciência de Dados - IFES ( [link](https://repositorio.ifes.edu.br/server/api/core/bitstreams/abefc5d0-2013-48c9-a177-e650a5f1986d/content) )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Ciência de Dados: Conceitos,Métodos e Aplicações](https://ia-labs.com.br/wp-content/uploads/2025/05/Ciencia-de-Dados-Conceitos-Metodos-e-Aplicacoes.pdf) - AI labs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ciência de Dados: Conceitos,Métodos e Aplicações - AI labs ( [link](https://ia-labs.com.br/wp-content/uploads/2025/05/Ciencia-de-Dados-Conceitos-Metodos-e-Aplicacoes.pdf) )
 
 ---
 
